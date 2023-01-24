@@ -8,8 +8,8 @@
 - :bar_chart: I have a textbook on [statiscal inference and machine learning](https://leanpub.com/cienciadados) written in Portuguese. It is available on [Github](https://github.com/fargolo/stat-learn).  
 - :hammer: Active projects:  
   - :japanese_castle: [Science Dojos](https://discord.gg/vZweajKJ) are spaces for live practices, discussions and [collaborations](https://ebhbr.github.io/)  
-  - :pencil2: [TextGraphs.jl](https://github.com/fargolo/TextGraphs.jl)  
-     [![JuliaCon22 presentation](https://img.youtube.com/vi/1Dufbmm9sqc/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Dufbmm9sqc)
+  - :pencil2: [TextGraphs.jl](https://github.com/fargolo/TextGraphs.jl) and [SemanticTrajectories.jl](https://github.com/fargolo/SemanticTrajectories.jl)  
+     [![JuliaCon22 presentation](https://img.youtube.com/vi/1Dufbmm9sqc/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Dufbmm9sqc) 
 
 
 -----------------------------------------
