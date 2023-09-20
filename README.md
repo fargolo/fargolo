@@ -9,7 +9,7 @@
 - :hammer: Active projects:  
   - :japanese_castle: [Science Dojos](https://discord.gg/hmuwy9jH) are spaces for live practices, discussions and collaborations.  
   - :pencil2: [TextGraphs.jl](https://github.com/fargolo/TextGraphs.jl) and [SemanticTrajectories.jl](https://github.com/fargolo/SemanticTrajectories.jl)  
-     [![JuliaCon22 presentation](https://img.youtube.com/vi/1Dufbmm9sqc/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Dufbmm9sqc) 
+     [![JuliaCon23 presentation](https://img.youtube.com/vi/4jJD4F40WBA/maxresdefault.jpg)](https://www.youtube.com/watch?v=4jJD4F40WBA)
 
 
 -----------------------------------------
