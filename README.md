@@ -3,7 +3,7 @@
 
 
 - :heart: :books: M.D.;.Ph.D.; Postdoc Researcher.  
-- :book: I study human behavior. Currently, at USP (Universidade de São Paulo).     
+- :book: I study human behavior (Psychiatry).
 - :computer: Most of my programming is related to mathematical modelling and statistical inference. Check out my [blog](https://substack.com/@argolof).  
 - :bar_chart: I have a textbook on [statiscal inference and machine learning](https://leanpub.com/cienciadados) written in Portuguese. It is available on [Github](https://github.com/fargolo/stat-learn).  
 - :hammer: Active projects include the following Julia packages available form registries (`julia>Pkg.add("AnalyticComb")`):
